@@ -4,7 +4,7 @@
 
 Tornado Cash pioneered non-custodial Ethereum and ERC20 privacy solutions by implementing zkSNARKs, thereby breaking the on-chain link between recipient and destination addresses. The breakthrough innovation of Tornado Cash was inspirational, yet ZEROX $ZX has taken it a step further by offering a more versatile, efficient, and secure platform that supports multiple networks, including Binance Smart Chain. This advancement has made privacy more accessible and affordable, with added incentives through $ZX tokens.
 
-ZX is based off Tornado Cash, yet supports [Binance Smart Chain](https://docs.binance.org/smart-chain/guides/bsc-intro.html). This makes it much more affordable to access the privacy critical to our lives. It also comes native with incentivisation to improve the privacy pool, where every deposit triggers earning of WIND.
+EROX is based off Tornado Cash, yet supports [Binance Smart Chain](https://docs.binance.org/smart-chain/guides/bsc-intro.html). This makes it much more affordable to access the privacy critical to our lives. It also comes native with incentivisation to improve the privacy pool, where every deposit triggers earning of WIND.
 
 ## Specs
 
@@ -114,9 +114,9 @@ Example:
 A huge shoutout to the pioneers, the creators of Tornado Cash, and the brilliant minds behind Circom & Websnark frameworks. The ZEROX $ZX project builds upon this foundational work to bring privacy solutions to the next level.
 
 ## Setting Up and Testing
-Follow the provided steps in the documentation for a minimal demo example and to emulate MPC trusted setup ceremony. The detailed guide ensures smooth setup and testing, paving the way for developers and users to experience the cutting-edge privacy solutions offered by ZEROX $ZX.
+Follow the provided steps in the documentation for a minimal demo example and to emulate MPC trusted setup ceremony. The detailed guide ensures smooth setup and testing, paving the way for developers and users to experience the cutting-edge privacy solutions offered by ZEROX $EROX.
 
-In conclusion, ZEROX $ZX represents the next step in privacy-focused solutions in the cryptocurrency space, addressing the gaps left by Tornado Cash and enhancing functionality, accessibility, and security for users across multiple networks. The future of transactional privacy is here with ZEROX $ZX.
+In conclusion, ZEROX $EROX represents the next step in privacy-focused solutions in the cryptocurrency space, addressing the gaps left by Tornado Cash and enhancing functionality, accessibility, and security for users across multiple networks. The future of transactional privacy is here with ZEROX $EROX.
 
 ## Minimal demo example
 

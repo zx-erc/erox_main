@@ -1,4 +1,4 @@
-# ZX ZEROX Privacy Solution
+# EROX ZEROX Privacy Solution
 
 ### A fork of Tornado Cash for usable networks
 

@@ -1,8 +1,8 @@
-# EROX ZEROX Privacy Solution
+# ZEROX Privacy Solution
 
 ### A fork of Tornado Cash for usable networks
 
-Tornado Cash pioneered non-custodial Ethereum and ERC20 privacy solutions by implementing zkSNARKs, thereby breaking the on-chain link between recipient and destination addresses. The breakthrough innovation of Tornado Cash was inspirational, yet ZEROX $ZX has taken it a step further by offering a more versatile, efficient, and secure platform that supports multiple networks, including Binance Smart Chain. This advancement has made privacy more accessible and affordable, with added incentives through $ZX tokens.
+Tornado Cash pioneered non-custodial Ethereum and ERC20 privacy solutions by implementing zkSNARKs, thereby breaking the on-chain link between recipient and destination addresses. The breakthrough innovation of Tornado Cash was inspirational, yet ZEROX $EROX has taken it a step further by offering a more versatile, efficient, and secure platform that supports multiple networks, including Binance Smart Chain. This advancement has made privacy more accessible and affordable, with added incentives through $EROX tokens.
 
 EROX is based off Tornado Cash, yet supports [Binance Smart Chain](https://docs.binance.org/smart-chain/guides/bsc-intro.html). This makes it much more affordable to access the privacy critical to our lives. It also comes native with incentivisation to improve the privacy pool, where every deposit triggers earning of WIND.
 
